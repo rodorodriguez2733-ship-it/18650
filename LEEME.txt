@@ -1,22 +1,17 @@
-Battery Repair POS — estilo POS de tienda
+Battery Repair POS V3
 
-Pantalla principal tipo caja/POS con botones grandes:
-- Nueva reparación
-- Nueva venta
-- Caja
-- Inventario
-- Clientes
-- Cuadre del día
+CORREGIDO:
+- Nueva reparación funciona.
+- Nueva venta funciona.
+- Caja funciona.
+- Inventario funciona.
+- Clientes funciona.
+- Cuadre del día funciona.
+- Pestañas corregidas para usar la navegación real de esta app.
 
-Mantiene:
-- Reparación de baterías de taladros
-- Marcas y datos técnicos
-- Fotos
-- WhatsApp
-- Barra de progreso
-- Inventario
-- Clientes
-- Transacciones
-- Tema claro/oscuro
+Para confirmar que cargó:
+V3 · CAJA Y REPARACIÓN CORREGIDOS
 
-Los datos se guardan localmente en este dispositivo hasta conectarlo a Firebase.
+En GitHub reemplaza:
+1. index.html
+2. sw.js
