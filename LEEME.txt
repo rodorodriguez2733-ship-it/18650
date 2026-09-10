@@ -1,8 +1,22 @@
-Battery Repair Hub
+Battery Repair POS — estilo POS de tienda
 
-App para reparación y reconstrucción de baterías de taladros.
-Incluye baterías, clientes, transacciones, inventario, fotos, WhatsApp, barra de progreso, voltaje, capacidad, tipo y cantidad de celdas, diagnóstico, trabajo, estimado, depósito y balance.
+Pantalla principal tipo caja/POS con botones grandes:
+- Nueva reparación
+- Nueva venta
+- Caja
+- Inventario
+- Clientes
+- Cuadre del día
 
-Marcas incluidas: DeWalt, Milwaukee, Makita, Ryobi, Ridgid, Bosch, Craftsman, Black+Decker, Porter-Cable, Hart, Kobalt y Otro.
+Mantiene:
+- Reparación de baterías de taladros
+- Marcas y datos técnicos
+- Fotos
+- WhatsApp
+- Barra de progreso
+- Inventario
+- Clientes
+- Transacciones
+- Tema claro/oscuro
 
-Los datos se guardan localmente en el dispositivo. Se puede conectar luego a Firebase para sincronización.
+Los datos se guardan localmente en este dispositivo hasta conectarlo a Firebase.
