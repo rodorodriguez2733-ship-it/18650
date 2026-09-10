@@ -1,0 +1,8 @@
+Battery Repair Hub
+
+App para reparación y reconstrucción de baterías de taladros.
+Incluye baterías, clientes, transacciones, inventario, fotos, WhatsApp, barra de progreso, voltaje, capacidad, tipo y cantidad de celdas, diagnóstico, trabajo, estimado, depósito y balance.
+
+Marcas incluidas: DeWalt, Milwaukee, Makita, Ryobi, Ridgid, Bosch, Craftsman, Black+Decker, Porter-Cable, Hart, Kobalt y Otro.
+
+Los datos se guardan localmente en el dispositivo. Se puede conectar luego a Firebase para sincronización.
